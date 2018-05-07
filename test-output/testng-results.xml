@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-05-07T12:09:57Z" name="Automation Tests" finished-at="2018-05-07T12:09:57Z" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2018-05-07T12:09:57Z" name="smoke test cases" finished-at="2018-05-07T12:09:57Z" duration-ms="135">
+      <class name="TestNGAnnotations.Annotations">
+        <test-method is-config="true" signature="delCookiesBeforeTest()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="delCookiesBeforeTest" finished-at="2018-05-07T12:09:57Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delCookiesBeforeTest -->
+        <test-method is-config="true" signature="userIdGeneration()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="userIdGeneration" finished-at="2018-05-07T12:09:57Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIdGeneration -->
+        <test-method signature="NasicTest()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="NasicTest" finished-at="2018-05-07T12:09:57Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NasicTest -->
+        <test-method is-config="true" signature="userIdGeneration()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="userIdGeneration" finished-at="2018-05-07T12:09:57Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIdGeneration -->
+        <test-method signature="flightBooking()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="flightBooking" finished-at="2018-05-07T12:09:57Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightBooking -->
+        <test-method is-config="true" signature="delCookiesAfterTest()[pri:0, instance:TestNGAnnotations.Annotations@5c90e579]" started-at="2018-05-07T12:09:57Z" name="delCookiesAfterTest" finished-at="2018-05-07T12:09:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delCookiesAfterTest -->
+      </class> <!-- TestNGAnnotations.Annotations -->
+    </test> <!-- smoke test cases -->
+  </suite> <!-- Automation Tests -->
+</testng-results>
