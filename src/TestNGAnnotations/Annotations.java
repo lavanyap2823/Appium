@@ -10,6 +10,7 @@ public class Annotations {
 	@BeforeMethod
 	public void userIdGeneration()
 	{
+		 System.out.println("New user id generated");
 		System.out.println("New user id generated");
 	}
 	@BeforeTest
